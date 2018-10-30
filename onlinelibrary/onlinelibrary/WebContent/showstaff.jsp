@@ -269,5 +269,5 @@ function dil(form)
                 <a href="http://www.javatpoint.com" target="_parent">Website Projects</a> by <a href="http://www.javatpoint.com" target="_parent">javatpoint.com</a></div>
     
 </div>
-<div align=center>This project  downloaded form <a href='http://www.javatpoint.com/'>free website projects</a></div></body>
+<div align=center>This project  downloaded form <a href='http://www.javatpoint.com/'>not free website projects</a></div></body>
 </html>

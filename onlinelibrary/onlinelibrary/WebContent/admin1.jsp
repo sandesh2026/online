@@ -13,6 +13,7 @@ function ctck()
 var sds = document.getElementById("dum");
 if(sds == null){alert("You are using a free package.\n You are not allowed to remove the tag.\n");}
 }
+//modifying 
 </script>
 
 <SCRIPT LANGUAGE="JavaScript">
